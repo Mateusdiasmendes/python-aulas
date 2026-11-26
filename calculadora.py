@@ -1,0 +1,7 @@
+number1 = input("Digite o primeiro numero:" )
+number1 = int(number1)
+number2 = input("DIgite o segundo numero:" )
+number2 = int(number2)
+print ("A soma dos dois numeros é: ", number1 + number2)
+print ("a multiplicacao dos dois numeros é:", number1 * number2)
+print ("A divisao dos dois numeros é: ", number1 / number2)
